@@ -12,7 +12,10 @@ I received a B.Sc. degree in Information Engineering in 2013 and a M.Sc. degree 
 
 Since December 2021, I am a Postdoctoral researcher at the Division of Decision and Control Systems (EECS) of KTH Royal Institute of Technology under the main supervision of [Prof. Karl Henrik Johansson](https://people.kth.se/~kallej/).
 
-Check my publications [here](https://github.com/FontanAngela/Profile/blob/main/publications.md).
+---
+## | [publications](https://github.com/FontanAngela/Profile/blob/main/publications.md) | [talks](https://github.com/FontanAngela/Profile/blob/main/talks.md) |
+
+---
 
 ## Links ##
 [LinkedIn](https://www.linkedin.com/in/angelafontan/)\
