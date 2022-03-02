@@ -18,6 +18,7 @@ Since December 2021, I am a Postdoctoral researcher at the Division of Decision 
 ---
 
 ## Links ##
+[Personal Webpage](https://angelafontan.github.io/)\
 [LinkedIn](https://www.linkedin.com/in/angelafontan/)\
 [Google Scholar](https://scholar.google.ca/citations?user=zoh-5V8AAAAJ&amp;hl=en)\
 [ResearchGate](https://www.researchgate.net/profile/Angela-Fontan)
